@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\bin\Debug\20230805_HazirStringMetodları.exe.config
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\bin\Debug\20230805_HazirStringMetodları.exe
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\bin\Debug\20230805_HazirStringMetodları.pdb
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\obj\Debug\20230805_HazirStringMetodları.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\obj\Debug\20230805_HazirStringMetodları.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\obj\Debug\20230805_HazirStringMetodları.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\obj\Debug\20230805_HazirStringMetodları.exe
+C:\Users\sadullah.sener\source\repos\20230805_HazirStringMetodları\20230805_HazirStringMetodları\obj\Debug\20230805_HazirStringMetodları.pdb
